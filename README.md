@@ -36,6 +36,5 @@ Internship or junior developer roles (remote-first, or based in Bangladesh) wher
 
 ### 📫 Connect With Me
 
-- **GitHub:** [TrishaPal2003](https://github.com/TrishaPal2003)
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/trisha-pal03/)
 - **Email:** [Email](trishapal160@gmail.com)
